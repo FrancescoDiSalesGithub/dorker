@@ -1,0 +1,3008 @@
+{
+    "0": "author",
+    "draw": 16,
+    "recordsTotal": 6671,
+    "recordsFiltered": 433,
+    "data": [
+      {
+        "id": "5890",
+        "date": "2020-04-16",
+        "url_title": "<a href=\"/ghdb/5890\">inurl:\"/auth.php?forgot_password=yes\"</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5885",
+        "date": "2020-04-16",
+        "url_title": "<a href=\"/ghdb/5885\">intext:\"Any time & Any where\" intext:\"Username\" intext:\"Password\" intext:login intext:\"View: Mobile | PC\"</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10424",
+          "Nicholas Doropoulos"
+        ],
+        "author": {
+          "id": "10424",
+          "name": "Nicholas Doropoulos"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5858",
+        "date": "2020-03-31",
+        "url_title": "<a href=\"/ghdb/5858\">site:*/signup/password.php</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5859",
+        "date": "2020-03-31",
+        "url_title": "<a href=\"/ghdb/5859\">site:*/requestpassword.*</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5841",
+        "date": "2020-03-30",
+        "url_title": "<a href=\"/ghdb/5841\">site:*/resetpass.php</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5845",
+        "date": "2020-03-30",
+        "url_title": "<a href=\"/ghdb/5845\">site:*/changePassword.php</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5844",
+        "date": "2020-03-30",
+        "url_title": "<a href=\"/ghdb/5844\">site:*/reminder_password</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5840",
+        "date": "2020-03-30",
+        "url_title": "<a href=\"/ghdb/5840\">site:*/retrieve-password</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5832",
+        "date": "2020-03-26",
+        "url_title": "<a href=\"/ghdb/5832\">inurl:/forgotpassword intext:\"enter username and email\"</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10444",
+          "Rafin Rahman Chowdhury"
+        ],
+        "author": {
+          "id": "10444",
+          "name": "Rafin Rahman Chowdhury"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5826",
+        "date": "2020-03-23",
+        "url_title": "<a href=\"/ghdb/5826\">\"d-i passwd/root-password-crypted password\" ext:cfg</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "10416",
+          "Alexandros Pappas"
+        ],
+        "author": {
+          "id": "10416",
+          "name": "Alexandros Pappas"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5819",
+        "date": "2020-03-20",
+        "url_title": "<a href=\"/ghdb/5819\">inurl:cfg intext:\"srb.username.1=\" \"srb.password.1 = \"</a>",
+        "cat_id": [
+          "8",
+          "Files Containing Juicy Info"
+        ],
+        "author_id": [
+          "10416",
+          "Alexandros Pappas"
+        ],
+        "author": {
+          "id": "10416",
+          "name": "Alexandros Pappas"
+        },
+        "category": {
+          "cat_id": "8",
+          "cat_title": "Files Containing Juicy Info",
+          "cat_description": "No usernames or passwords, but interesting stuff none the less.",
+          "last_update": "2021-09-01",
+          "records_count": "942",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5811",
+        "date": "2020-03-20",
+        "url_title": "<a href=\"/ghdb/5811\">intext:\"Please enter your new password\" inurl:login filetype:php</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10416",
+          "Alexandros Pappas"
+        ],
+        "author": {
+          "id": "10416",
+          "name": "Alexandros Pappas"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5816",
+        "date": "2020-03-20",
+        "url_title": "<a href=\"/ghdb/5816\">inurl:-cfg intext:\"password cipher\"</a>",
+        "cat_id": [
+          "8",
+          "Files Containing Juicy Info"
+        ],
+        "author_id": [
+          "10416",
+          "Alexandros Pappas"
+        ],
+        "author": {
+          "id": "10416",
+          "name": "Alexandros Pappas"
+        },
+        "category": {
+          "cat_id": "8",
+          "cat_title": "Files Containing Juicy Info",
+          "cat_description": "No usernames or passwords, but interesting stuff none the less.",
+          "last_update": "2021-09-01",
+          "records_count": "942",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5815",
+        "date": "2020-03-20",
+        "url_title": "<a href=\"/ghdb/5815\">intext:authentication set encrypted-password ext:cfg</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "10416",
+          "Alexandros Pappas"
+        ],
+        "author": {
+          "id": "10416",
+          "name": "Alexandros Pappas"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5813",
+        "date": "2020-03-20",
+        "url_title": "<a href=\"/ghdb/5813\">\"enable password\" ext:cfg -git -cisco.com</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "10416",
+          "Alexandros Pappas"
+        ],
+        "author": {
+          "id": "10416",
+          "name": "Alexandros Pappas"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5814",
+        "date": "2020-03-20",
+        "url_title": "<a href=\"/ghdb/5814\">password console-password ext:cfg -git</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "10416",
+          "Alexandros Pappas"
+        ],
+        "author": {
+          "id": "10416",
+          "name": "Alexandros Pappas"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5802",
+        "date": "2020-03-18",
+        "url_title": "<a href=\"/ghdb/5802\">intitle:\"index of\" \"passwords.yml\"</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "10416",
+          "Alexandros Pappas"
+        ],
+        "author": {
+          "id": "10416",
+          "name": "Alexandros Pappas"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5794",
+        "date": "2020-03-16",
+        "url_title": "<a href=\"/ghdb/5794\">intext:\"please enter your username and password\" inurl:login filetype:php</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10424",
+          "Nicholas Doropoulos"
+        ],
+        "author": {
+          "id": "10424",
+          "name": "Nicholas Doropoulos"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5769",
+        "date": "2020-03-05",
+        "url_title": "<a href=\"/ghdb/5769\">intext:\"WPENGINE_SESSION_DB_USERNAME\" || \"WPENGINE_SESSION_DB_PASSWORD\"</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "10258",
+          "Hilary Soita"
+        ],
+        "author": {
+          "id": "10258",
+          "name": "Hilary Soita"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5756",
+        "date": "2020-02-27",
+        "url_title": "<a href=\"/ghdb/5756\">inurl:/_layouts/userdisp.aspx?id= intext:password</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10385",
+          "Wethenorthcvv"
+        ],
+        "author": {
+          "id": "10385",
+          "name": "Wethenorthcvv"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5747",
+        "date": "2020-02-20",
+        "url_title": "<a href=\"/ghdb/5747\">intext:\"username=\" AND \"password=\" ext:log</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "10258",
+          "Hilary Soita"
+        ],
+        "author": {
+          "id": "10258",
+          "name": "Hilary Soita"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5722",
+        "date": "2020-02-03",
+        "url_title": "<a href=\"/ghdb/5722\">intitle:\"index of\" share.passwd OR cloud.passwd OR ftp.passwd -public</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9369",
+          "Bruno Schmid"
+        ],
+        "author": {
+          "id": "9369",
+          "name": "Bruno Schmid"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5680",
+        "date": "2020-01-06",
+        "url_title": "<a href=\"/ghdb/5680\">intitle:\"Zabbix\" intext:\"username\" intext:\"password\" inurl:\"/zabbix/index.php\"</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5665",
+        "date": "2019-12-12",
+        "url_title": "<a href=\"/ghdb/5665\">inurl:\"web.config\" & intext:\"Data Source\" & \"User ID\" & \"Password\" & \"connectionString\" & ext:config -git</a>",
+        "cat_id": [
+          "8",
+          "Files Containing Juicy Info"
+        ],
+        "author_id": [
+          "9187",
+          "Aamir Rehman"
+        ],
+        "author": {
+          "id": "9187",
+          "name": "Aamir Rehman"
+        },
+        "category": {
+          "cat_id": "8",
+          "cat_title": "Files Containing Juicy Info",
+          "cat_description": "No usernames or passwords, but interesting stuff none the less.",
+          "last_update": "2021-09-01",
+          "records_count": "942",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5633",
+        "date": "2019-11-08",
+        "url_title": "<a href=\"/ghdb/5633\">site:*/admin/password/reset</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5627",
+        "date": "2019-11-06",
+        "url_title": "<a href=\"/ghdb/5627\">inurl:\"/password.php\" intitle:\"Forgot your password\"</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5622",
+        "date": "2019-11-05",
+        "url_title": "<a href=\"/ghdb/5622\">db_password filetype:env -site:github.com -git</a>",
+        "cat_id": [
+          "8",
+          "Files Containing Juicy Info"
+        ],
+        "author_id": [
+          "10176",
+          "Dhaiwat Mehta"
+        ],
+        "author": {
+          "id": "10176",
+          "name": "Dhaiwat Mehta"
+        },
+        "category": {
+          "cat_id": "8",
+          "cat_title": "Files Containing Juicy Info",
+          "cat_description": "No usernames or passwords, but interesting stuff none the less.",
+          "last_update": "2021-09-01",
+          "records_count": "942",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5614",
+        "date": "2019-11-04",
+        "url_title": "<a href=\"/ghdb/5614\">intitle:index.of \"userpass.txt\"</a>",
+        "cat_id": [
+          "8",
+          "Files Containing Juicy Info"
+        ],
+        "author_id": [
+          "9642",
+          "Ismail Tasdelen"
+        ],
+        "author": {
+          "id": "9642",
+          "name": "Ismail Tasdelen"
+        },
+        "category": {
+          "cat_id": "8",
+          "cat_title": "Files Containing Juicy Info",
+          "cat_description": "No usernames or passwords, but interesting stuff none the less.",
+          "last_update": "2021-09-01",
+          "records_count": "942",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5607",
+        "date": "2019-10-30",
+        "url_title": "<a href=\"/ghdb/5607\">inurl:\"/wp-login.php?action=lostpassword\"</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5606",
+        "date": "2019-10-29",
+        "url_title": "<a href=\"/ghdb/5606\">intitle:\"Index of\" password.txt</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9642",
+          "Ismail Tasdelen"
+        ],
+        "author": {
+          "id": "9642",
+          "name": "Ismail Tasdelen"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5602",
+        "date": "2019-10-29",
+        "url_title": "<a href=\"/ghdb/5602\">site:*/account/lost_password</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5599",
+        "date": "2019-10-28",
+        "url_title": "<a href=\"/ghdb/5599\">site:passport.*.*/login</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5590",
+        "date": "2019-10-21",
+        "url_title": "<a href=\"/ghdb/5590\">site:*/password/remind</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5562",
+        "date": "2019-10-01",
+        "url_title": "<a href=\"/ghdb/5562\">site:*/request-password-reset</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5538",
+        "date": "2019-09-17",
+        "url_title": "<a href=\"/ghdb/5538\">site:* intitle:\"reset password\"</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10155",
+          "Paras Arora"
+        ],
+        "author": {
+          "id": "10155",
+          "name": "Paras Arora"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5532",
+        "date": "2019-09-16",
+        "url_title": "<a href=\"/ghdb/5532\">site:*/authzssl/forget_password</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5509",
+        "date": "2019-09-10",
+        "url_title": "<a href=\"/ghdb/5509\">inurl:\"/phpmyadmin/user_password.php\" -inurl:git</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5504",
+        "date": "2019-09-05",
+        "url_title": "<a href=\"/ghdb/5504\">site:*/recover-pass</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5489",
+        "date": "2019-09-03",
+        "url_title": "<a href=\"/ghdb/5489\">site:*/password_reset/</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5496",
+        "date": "2019-09-03",
+        "url_title": "<a href=\"/ghdb/5496\">site:*/resetpassword.php</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10155",
+          "Paras Arora"
+        ],
+        "author": {
+          "id": "10155",
+          "name": "Paras Arora"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5492",
+        "date": "2019-09-03",
+        "url_title": "<a href=\"/ghdb/5492\">site:*/forgot-password</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5488",
+        "date": "2019-09-02",
+        "url_title": "<a href=\"/ghdb/5488\">inurl:admin/changepassword*</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10154",
+          "Abhishek Samaddar"
+        ],
+        "author": {
+          "id": "10154",
+          "name": "Abhishek Samaddar"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5485",
+        "date": "2019-09-02",
+        "url_title": "<a href=\"/ghdb/5485\">site:*/SendPassword</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5479",
+        "date": "2019-08-30",
+        "url_title": "<a href=\"/ghdb/5479\">intitle:\"Login to Webmin\" intext:\"You must enter a username and password to login to the server\"</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10095",
+          "M. Cory Billington"
+        ],
+        "author": {
+          "id": "10095",
+          "name": "M. Cory Billington"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5476",
+        "date": "2019-08-30",
+        "url_title": "<a href=\"/ghdb/5476\">site:*/updatepassword.php</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5470",
+        "date": "2019-08-29",
+        "url_title": "<a href=\"/ghdb/5470\">intext:\"@gmail.com\" intext:\"password\" inurl:/files/ ext:txt</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5462",
+        "date": "2019-08-28",
+        "url_title": "<a href=\"/ghdb/5462\">site:*/user/password/</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5464",
+        "date": "2019-08-28",
+        "url_title": "<a href=\"/ghdb/5464\">intitle:\"index of\" \"ftp.passwd\"</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5459",
+        "date": "2019-08-27",
+        "url_title": "<a href=\"/ghdb/5459\">intitle:\"index of\" \"htpasswd.txt\"</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5456",
+        "date": "2019-08-27",
+        "url_title": "<a href=\"/ghdb/5456\">inurl:/identify/ intitle:\"Forgotten Password\"</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5452",
+        "date": "2019-08-26",
+        "url_title": "<a href=\"/ghdb/5452\">site:*/login/ForgotPassword</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5436",
+        "date": "2019-08-22",
+        "url_title": "<a href=\"/ghdb/5436\">site:*/forgetpassword.php</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5435",
+        "date": "2019-08-22",
+        "url_title": "<a href=\"/ghdb/5435\">site:*/Password.aspx</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "10027",
+          "Reza Abasi"
+        ],
+        "author": {
+          "id": "10027",
+          "name": "Reza Abasi"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5426",
+        "date": "2019-08-21",
+        "url_title": "<a href=\"/ghdb/5426\">\"pass\" \"usuario\" filetype:sql</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "10132",
+          "The Dexter"
+        ],
+        "author": {
+          "id": "10132",
+          "name": "The Dexter"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5342",
+        "date": "2019-08-12",
+        "url_title": "<a href=\"/ghdb/5342\">inurl:robots.txt site:gov + intext:password</a>",
+        "cat_id": [
+          "8",
+          "Files Containing Juicy Info"
+        ],
+        "author_id": [
+          "10108",
+          "Vaibhav Pareek"
+        ],
+        "author": {
+          "id": "10108",
+          "name": "Vaibhav Pareek"
+        },
+        "category": {
+          "cat_id": "8",
+          "cat_title": "Files Containing Juicy Info",
+          "cat_description": "No usernames or passwords, but interesting stuff none the less.",
+          "last_update": "2021-09-01",
+          "records_count": "942",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5298",
+        "date": "2019-07-30",
+        "url_title": "<a href=\"/ghdb/5298\">intitle:\"Index of\" pass.txt</a>",
+        "cat_id": [
+          "8",
+          "Files Containing Juicy Info"
+        ],
+        "author_id": [
+          "10086",
+          "Mayur Parmar"
+        ],
+        "author": {
+          "id": "10086",
+          "name": "Mayur Parmar"
+        },
+        "category": {
+          "cat_id": "8",
+          "cat_title": "Files Containing Juicy Info",
+          "cat_description": "No usernames or passwords, but interesting stuff none the less.",
+          "last_update": "2021-09-01",
+          "records_count": "942",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5285",
+        "date": "2019-07-24",
+        "url_title": "<a href=\"/ghdb/5285\">intext:\"aspx\" filetype:txt login & password</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "10074",
+          "ahmed mohammed adel"
+        ],
+        "author": {
+          "id": "10074",
+          "name": "ahmed mohammed adel"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5260",
+        "date": "2019-06-19",
+        "url_title": "<a href=\"/ghdb/5260\">site:https://docs.google.com/document/d/ password</a>",
+        "cat_id": [
+          "8",
+          "Files Containing Juicy Info"
+        ],
+        "author_id": [
+          "2168",
+          "anonymous"
+        ],
+        "author": {
+          "id": "2168",
+          "name": "anonymous"
+        },
+        "category": {
+          "cat_id": "8",
+          "cat_title": "Files Containing Juicy Info",
+          "cat_description": "No usernames or passwords, but interesting stuff none the less.",
+          "last_update": "2021-09-01",
+          "records_count": "942",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5259",
+        "date": "2019-06-18",
+        "url_title": "<a href=\"/ghdb/5259\">site:https://docs.google.com/spreadsheets/d/ password</a>",
+        "cat_id": [
+          "8",
+          "Files Containing Juicy Info"
+        ],
+        "author_id": [
+          "2168",
+          "anonymous"
+        ],
+        "author": {
+          "id": "2168",
+          "name": "anonymous"
+        },
+        "category": {
+          "cat_id": "8",
+          "cat_title": "Files Containing Juicy Info",
+          "cat_description": "No usernames or passwords, but interesting stuff none the less.",
+          "last_update": "2021-09-01",
+          "records_count": "942",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5252",
+        "date": "2019-06-06",
+        "url_title": "<a href=\"/ghdb/5252\">intitle:\"netscaler gateway\" intext:password \"please log on\"</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "9369",
+          "Bruno Schmid"
+        ],
+        "author": {
+          "id": "9369",
+          "name": "Bruno Schmid"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5244",
+        "date": "2019-06-03",
+        "url_title": "<a href=\"/ghdb/5244\">-youtube.com login | password | username intitle:\"assessment\"</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "9369",
+          "Bruno Schmid"
+        ],
+        "author": {
+          "id": "9369",
+          "name": "Bruno Schmid"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5237",
+        "date": "2019-06-03",
+        "url_title": "<a href=\"/ghdb/5237\">intext:\"wordpress\" filetype:xls login & password</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "10007",
+          "Prasad Borvankar"
+        ],
+        "author": {
+          "id": "10007",
+          "name": "Prasad Borvankar"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5234",
+        "date": "2019-05-31",
+        "url_title": "<a href=\"/ghdb/5234\">s3 site:amazonaws.com filetype:xls password</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9987",
+          "acc3ssp0int"
+        ],
+        "author": {
+          "id": "9987",
+          "name": "acc3ssp0int"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5212",
+        "date": "2019-05-13",
+        "url_title": "<a href=\"/ghdb/5212\">intext:\"Login | Password\" AND intext:\"Powered by | username\" AND intext:Drupal AND inurl:user</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "9970",
+          "Isaiah Puzon"
+        ],
+        "author": {
+          "id": "9970",
+          "name": "Isaiah Puzon"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5199",
+        "date": "2019-05-06",
+        "url_title": "<a href=\"/ghdb/5199\">inurl:wp-config.php intext:DB_PASSWORD -stackoverflow -wpbeginner</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9245",
+          "vocuzi"
+        ],
+        "author": {
+          "id": "9245",
+          "name": "vocuzi"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5197",
+        "date": "2019-04-30",
+        "url_title": "<a href=\"/ghdb/5197\">\"passport\" filetype:xls site:\"*.edu.*\" | site:\"*.gov.*\" | site:\"*.com.*\" | site:\"*.org.*\" | site:\"*.net.*\" | site:\"*.mil.*\"</a>",
+        "cat_id": [
+          "8",
+          "Files Containing Juicy Info"
+        ],
+        "author_id": [
+          "9963",
+          "Neat"
+        ],
+        "author": {
+          "id": "9963",
+          "name": "Neat"
+        },
+        "category": {
+          "cat_id": "8",
+          "cat_title": "Files Containing Juicy Info",
+          "cat_description": "No usernames or passwords, but interesting stuff none the less.",
+          "last_update": "2021-09-01",
+          "records_count": "942",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5181",
+        "date": "2019-04-12",
+        "url_title": "<a href=\"/ghdb/5181\">ext:txt | ext:sql | ext:cnf | ext:config | ext:log & intext:\"admin\" | intext:\"root\" | intext:\"administrator\" & intext:\"password\" | intext:\"root\" | intext:\"admin\" | intext:\"administrator\"</a>",
+        "cat_id": [
+          "8",
+          "Files Containing Juicy Info"
+        ],
+        "author_id": [
+          "9699",
+          "Miguel Santareno"
+        ],
+        "author": {
+          "id": "9699",
+          "name": "Miguel Santareno"
+        },
+        "category": {
+          "cat_id": "8",
+          "cat_title": "Files Containing Juicy Info",
+          "cat_description": "No usernames or passwords, but interesting stuff none the less.",
+          "last_update": "2021-09-01",
+          "records_count": "942",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5141",
+        "date": "2019-03-01",
+        "url_title": "<a href=\"/ghdb/5141\">intitle:settings.py intext:EMAIL_HOST_PASSWORD -git -stackoverflow</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9245",
+          "vocuzi"
+        ],
+        "author": {
+          "id": "9245",
+          "name": "vocuzi"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5116",
+        "date": "2019-02-15",
+        "url_title": "<a href=\"/ghdb/5116\">inurl:login.htm \"xpress\" password</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "9369",
+          "Bruno Schmid"
+        ],
+        "author": {
+          "id": "9369",
+          "name": "Bruno Schmid"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5101",
+        "date": "2019-02-15",
+        "url_title": "<a href=\"/ghdb/5101\">\"sasl_passwd\" | smtpd.conf intitle:\"index of\"</a>",
+        "cat_id": [
+          "3",
+          "Sensitive Directories"
+        ],
+        "author_id": [
+          "9369",
+          "Bruno Schmid"
+        ],
+        "author": {
+          "id": "9369",
+          "name": "Bruno Schmid"
+        },
+        "category": {
+          "cat_id": "3",
+          "cat_title": "Sensitive Directories",
+          "cat_description": "Googles collection of web sites sharing sensitive directories. The files contained in here will vary from sensitive to über-secret!",
+          "last_update": "2021-08-25",
+          "records_count": "436",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5103",
+        "date": "2019-02-15",
+        "url_title": "<a href=\"/ghdb/5103\">username | password inurl:resources/application.properties -github.com -gitlab</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9369",
+          "Bruno Schmid"
+        ],
+        "author": {
+          "id": "9369",
+          "name": "Bruno Schmid"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5108",
+        "date": "2019-02-15",
+        "url_title": "<a href=\"/ghdb/5108\">intitle:vendor | supply & login | portal intext:login | email & password</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "9369",
+          "Bruno Schmid"
+        ],
+        "author": {
+          "id": "9369",
+          "name": "Bruno Schmid"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5109",
+        "date": "2019-02-15",
+        "url_title": "<a href=\"/ghdb/5109\">intext:pin | userid & password intitle:supplier | supply & login | portal</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "9369",
+          "Bruno Schmid"
+        ],
+        "author": {
+          "id": "9369",
+          "name": "Bruno Schmid"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5086",
+        "date": "2019-02-05",
+        "url_title": "<a href=\"/ghdb/5086\">intitle:\"Device(\" AND intext:\"Network Camera\" AND \"language:\" AND \"Password\"</a>",
+        "cat_id": [
+          "13",
+          "Various Online Devices"
+        ],
+        "author_id": [
+          "9512",
+          "Brain Reflow"
+        ],
+        "author": {
+          "id": "9512",
+          "name": "Brain Reflow"
+        },
+        "category": {
+          "cat_id": "13",
+          "cat_title": "Various Online Devices",
+          "cat_description": "This category contains things like printers, video cameras, and all sorts of cool things found on the web with Google.",
+          "last_update": "2021-09-07",
+          "records_count": "679",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5075",
+        "date": "2019-01-14",
+        "url_title": "<a href=\"/ghdb/5075\">intitle:\"Index of /\" inurl:passport</a>",
+        "cat_id": [
+          "3",
+          "Sensitive Directories"
+        ],
+        "author_id": [
+          "9445",
+          "Bl4kd43m0n"
+        ],
+        "author": {
+          "id": "9445",
+          "name": "Bl4kd43m0n"
+        },
+        "category": {
+          "cat_id": "3",
+          "cat_title": "Sensitive Directories",
+          "cat_description": "Googles collection of web sites sharing sensitive directories. The files contained in here will vary from sensitive to über-secret!",
+          "last_update": "2021-08-25",
+          "records_count": "436",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5074",
+        "date": "2019-01-09",
+        "url_title": "<a href=\"/ghdb/5074\">inurl:apspassword</a>",
+        "cat_id": [
+          "8",
+          "Files Containing Juicy Info"
+        ],
+        "author_id": [
+          "9831",
+          "FlyingFrog"
+        ],
+        "author": {
+          "id": "9831",
+          "name": "FlyingFrog"
+        },
+        "category": {
+          "cat_id": "8",
+          "cat_title": "Files Containing Juicy Info",
+          "cat_description": "No usernames or passwords, but interesting stuff none the less.",
+          "last_update": "2021-09-01",
+          "records_count": "942",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5057",
+        "date": "2018-12-14",
+        "url_title": "<a href=\"/ghdb/5057\">intext:password \"Login Info\" filetype:txt</a>",
+        "cat_id": [
+          "8",
+          "Files Containing Juicy Info"
+        ],
+        "author_id": [
+          "9395",
+          "Kevin Randall"
+        ],
+        "author": {
+          "id": "9395",
+          "name": "Kevin Randall"
+        },
+        "category": {
+          "cat_id": "8",
+          "cat_title": "Files Containing Juicy Info",
+          "cat_description": "No usernames or passwords, but interesting stuff none the less.",
+          "last_update": "2021-09-01",
+          "records_count": "942",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5046",
+        "date": "2018-12-04",
+        "url_title": "<a href=\"/ghdb/5046\">filetype:xml config.xml passwordHash Jenkins</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9395",
+          "Kevin Randall"
+        ],
+        "author": {
+          "id": "9395",
+          "name": "Kevin Randall"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "5038",
+        "date": "2018-11-27",
+        "url_title": "<a href=\"/ghdb/5038\">intext:\"Type in Username and Password, then click Ok\" intitle:\"log in\"</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "9323",
+          "ManhNho"
+        ],
+        "author": {
+          "id": "9323",
+          "name": "ManhNho"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4974",
+        "date": "2018-10-16",
+        "url_title": "<a href=\"/ghdb/4974\">intext:\"authentication\" intranet password login inurl:account ext:(doc | pdf | xls| psw | ppt | pps | xml | txt | ps | rtf | odt | sxw | xlsx | docx | mail)</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "9369",
+          "Bruno Schmid"
+        ],
+        "author": {
+          "id": "9369",
+          "name": "Bruno Schmid"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4972",
+        "date": "2018-10-16",
+        "url_title": "<a href=\"/ghdb/4972\">filetype:reg reg HKEY_CURRENT_USER intext:password</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9369",
+          "Bruno Schmid"
+        ],
+        "author": {
+          "id": "9369",
+          "name": "Bruno Schmid"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4975",
+        "date": "2018-10-16",
+        "url_title": "<a href=\"/ghdb/4975\">inurl:login intext:\"reset your password\"</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "9369",
+          "Bruno Schmid"
+        ],
+        "author": {
+          "id": "9369",
+          "name": "Bruno Schmid"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4970",
+        "date": "2018-10-03",
+        "url_title": "<a href=\"/ghdb/4970\">inurl:\"standalone.xml\" intext:\"password>\"</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9698",
+          "Xin Min"
+        ],
+        "author": {
+          "id": "9698",
+          "name": "Xin Min"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4964",
+        "date": "2018-09-26",
+        "url_title": "<a href=\"/ghdb/4964\">intext:\"please find attached\" \"login\" | password ext:pdf</a>",
+        "cat_id": [
+          "8",
+          "Files Containing Juicy Info"
+        ],
+        "author_id": [
+          "9369",
+          "Bruno Schmid"
+        ],
+        "author": {
+          "id": "9369",
+          "name": "Bruno Schmid"
+        },
+        "category": {
+          "cat_id": "8",
+          "cat_title": "Files Containing Juicy Info",
+          "cat_description": "No usernames or passwords, but interesting stuff none the less.",
+          "last_update": "2021-09-01",
+          "records_count": "942",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4959",
+        "date": "2018-09-20",
+        "url_title": "<a href=\"/ghdb/4959\">inurl:\"build.xml\" intext:\"tomcat.manager.password\"</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9698",
+          "Xin Min"
+        ],
+        "author": {
+          "id": "9698",
+          "name": "Xin Min"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4952",
+        "date": "2018-09-13",
+        "url_title": "<a href=\"/ghdb/4952\">inurl:\"trello.com\" and intext:\"username\" and intext:\"password\"</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9397",
+          "Sang Bui"
+        ],
+        "author": {
+          "id": "9397",
+          "name": "Sang Bui"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4925",
+        "date": "2018-08-17",
+        "url_title": "<a href=\"/ghdb/4925\">inurl: \"Mister Spy\" | intext:\"Mister Spy & Souheyl Bypass Shell\"</a>",
+        "cat_id": [
+          "1",
+          "Footholds"
+        ],
+        "author_id": [
+          "9609",
+          "Gionathan Reale"
+        ],
+        "author": {
+          "id": "9609",
+          "name": "Gionathan Reale"
+        },
+        "category": {
+          "cat_id": "1",
+          "cat_title": "Footholds",
+          "cat_description": "Examples of queries that can help an attacker gain a foothold into a web server",
+          "last_update": "2020-09-14",
+          "records_count": "119",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4920",
+        "date": "2018-08-14",
+        "url_title": "<a href=\"/ghdb/4920\">intext:\"rabbit_password\" | \"service_password\" filetype:conf</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9369",
+          "Bruno Schmid"
+        ],
+        "author": {
+          "id": "9369",
+          "name": "Bruno Schmid"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4921",
+        "date": "2018-08-14",
+        "url_title": "<a href=\"/ghdb/4921\">\"whoops! there was an error.\" \"db_password\"</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9205",
+          "Rootkit_Pentester"
+        ],
+        "author": {
+          "id": "9205",
+          "name": "Rootkit_Pentester"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4896",
+        "date": "2018-08-01",
+        "url_title": "<a href=\"/ghdb/4896\">intext:\"please change your\" password |code | login file:pdf | doc | txt | docx -github</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9369",
+          "Bruno Schmid"
+        ],
+        "author": {
+          "id": "9369",
+          "name": "Bruno Schmid"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4895",
+        "date": "2018-07-20",
+        "url_title": "<a href=\"/ghdb/4895\">\"air confirmation\" \"passenger(s)\"</a>",
+        "cat_id": [
+          "8",
+          "Files Containing Juicy Info"
+        ],
+        "author_id": [
+          "9205",
+          "Rootkit_Pentester"
+        ],
+        "author": {
+          "id": "9205",
+          "name": "Rootkit_Pentester"
+        },
+        "category": {
+          "cat_id": "8",
+          "cat_title": "Files Containing Juicy Info",
+          "cat_description": "No usernames or passwords, but interesting stuff none the less.",
+          "last_update": "2021-09-01",
+          "records_count": "942",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4892",
+        "date": "2018-07-16",
+        "url_title": "<a href=\"/ghdb/4892\">inurl:configuration.php and intext:\"var $password=\"</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "8524",
+          "Sachin Wagh"
+        ],
+        "author": {
+          "id": "8524",
+          "name": "Sachin Wagh"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4886",
+        "date": "2018-07-06",
+        "url_title": "<a href=\"/ghdb/4886\">\"Copyright Metislab\" password</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "9369",
+          "Bruno Schmid"
+        ],
+        "author": {
+          "id": "9369",
+          "name": "Bruno Schmid"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4885",
+        "date": "2018-07-06",
+        "url_title": "<a href=\"/ghdb/4885\">intitle:\"manager area\" password -stackoverflow.com</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "9369",
+          "Bruno Schmid"
+        ],
+        "author": {
+          "id": "9369",
+          "name": "Bruno Schmid"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4864",
+        "date": "2018-06-22",
+        "url_title": "<a href=\"/ghdb/4864\">intext:cv OR intext:curriculum vitae \"passport details\" ext:doc -template</a>",
+        "cat_id": [
+          "8",
+          "Files Containing Juicy Info"
+        ],
+        "author_id": [
+          "9549",
+          "TheManyHatsClub"
+        ],
+        "author": {
+          "id": "9549",
+          "name": "TheManyHatsClub"
+        },
+        "category": {
+          "cat_id": "8",
+          "cat_title": "Files Containing Juicy Info",
+          "cat_description": "No usernames or passwords, but interesting stuff none the less.",
+          "last_update": "2021-09-01",
+          "records_count": "942",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4865",
+        "date": "2018-06-22",
+        "url_title": "<a href=\"/ghdb/4865\">intitle:\"MyWebSQL\" + \"User ID: Password:\"</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "9323",
+          "ManhNho"
+        ],
+        "author": {
+          "id": "9323",
+          "name": "ManhNho"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4857",
+        "date": "2018-06-14",
+        "url_title": "<a href=\"/ghdb/4857\">\"password.xlsx\" ext:xlsx</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9323",
+          "ManhNho"
+        ],
+        "author": {
+          "id": "9323",
+          "name": "ManhNho"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4845",
+        "date": "2018-06-06",
+        "url_title": "<a href=\"/ghdb/4845\">filetype:env intext:REDIS_PASSWORD</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9519",
+          "Amal Jossy"
+        ],
+        "author": {
+          "id": "9519",
+          "name": "Amal Jossy"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4827",
+        "date": "2018-05-17",
+        "url_title": "<a href=\"/ghdb/4827\">inurl:\"RootFolder=\" Allitems \"confidential\" | \"classified\" | \"passwords\" | username</a>",
+        "cat_id": [
+          "3",
+          "Sensitive Directories"
+        ],
+        "author_id": [
+          "9369",
+          "Bruno Schmid"
+        ],
+        "author": {
+          "id": "9369",
+          "name": "Bruno Schmid"
+        },
+        "category": {
+          "cat_id": "3",
+          "cat_title": "Sensitive Directories",
+          "cat_description": "Googles collection of web sites sharing sensitive directories. The files contained in here will vary from sensitive to über-secret!",
+          "last_update": "2021-08-25",
+          "records_count": "436",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4823",
+        "date": "2018-05-16",
+        "url_title": "<a href=\"/ghdb/4823\">intitle:\"index.of\" inurl:\"cvs\" login | passwd | password | access | pass -github -pub</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9369",
+          "Bruno Schmid"
+        ],
+        "author": {
+          "id": "9369",
+          "name": "Bruno Schmid"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4824",
+        "date": "2018-05-16",
+        "url_title": "<a href=\"/ghdb/4824\">intitle:login laboratory | \"nuclear\" | physics \"password\" authentication</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "9369",
+          "Bruno Schmid"
+        ],
+        "author": {
+          "id": "9369",
+          "name": "Bruno Schmid"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4818",
+        "date": "2018-05-16",
+        "url_title": "<a href=\"/ghdb/4818\">inurl:\"q=user/password\"</a>",
+        "cat_id": [
+          "6",
+          "Vulnerable Servers"
+        ],
+        "author_id": [
+          "9465",
+          "Ebad uddin Ahmad"
+        ],
+        "author": {
+          "id": "9465",
+          "name": "Ebad uddin Ahmad"
+        },
+        "category": {
+          "cat_id": "6",
+          "cat_title": "Vulnerable Servers",
+          "cat_description": "These searches reveal servers with specific vulnerabilities. These are found in a different way than the searches found in the &quot;Vulnerable Files&quot; section.",
+          "last_update": "2021-06-25",
+          "records_count": "108",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4819",
+        "date": "2018-05-16",
+        "url_title": "<a href=\"/ghdb/4819\">site:showmyhomework.co.uk/school/homeworks/ \"password\"</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9466",
+          "LewisBugBounty"
+        ],
+        "author": {
+          "id": "9466",
+          "name": "LewisBugBounty"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4817",
+        "date": "2018-05-11",
+        "url_title": "<a href=\"/ghdb/4817\">intext:\"this login can be used only once\" inurl:user intitle:\"reset password\"</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "9460",
+          "The Infected Drake"
+        ],
+        "author": {
+          "id": "9460",
+          "name": "The Infected Drake"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4812",
+        "date": "2018-05-10",
+        "url_title": "<a href=\"/ghdb/4812\">filetype:doc inurl:\"gov\" intext:\"default password is\"</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9458",
+          "Vaibhav Dhote"
+        ],
+        "author": {
+          "id": "9458",
+          "name": "Vaibhav Dhote"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4813",
+        "date": "2018-05-10",
+        "url_title": "<a href=\"/ghdb/4813\">site:trello.com intext:mysql AND intext:password -site:developers.trello.com -site:help.trello.com</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9459",
+          "Dec0y"
+        ],
+        "author": {
+          "id": "9459",
+          "name": "Dec0y"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4809",
+        "date": "2018-05-08",
+        "url_title": "<a href=\"/ghdb/4809\">intext:\"PuTTY log\" ext:log \"password\" -supportforums -github</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9323",
+          "ManhNho"
+        ],
+        "author": {
+          "id": "9323",
+          "name": "ManhNho"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4806",
+        "date": "2018-05-07",
+        "url_title": "<a href=\"/ghdb/4806\">inurl:\"/App.Config\" + ext:config + \"password=\" -github -git</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9323",
+          "ManhNho"
+        ],
+        "author": {
+          "id": "9323",
+          "name": "ManhNho"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4803",
+        "date": "2018-05-04",
+        "url_title": "<a href=\"/ghdb/4803\">ext:txt {\"wallet_address\" :\", \"pool_address\" : \" \", \"pool_password\" -git</a>",
+        "cat_id": [
+          "8",
+          "Files Containing Juicy Info"
+        ],
+        "author_id": [
+          "9323",
+          "ManhNho"
+        ],
+        "author": {
+          "id": "9323",
+          "name": "ManhNho"
+        },
+        "category": {
+          "cat_id": "8",
+          "cat_title": "Files Containing Juicy Info",
+          "cat_description": "No usernames or passwords, but interesting stuff none the less.",
+          "last_update": "2021-09-01",
+          "records_count": "942",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4784",
+        "date": "2018-04-17",
+        "url_title": "<a href=\"/ghdb/4784\">Codeigniter filetype:sql intext:password | pwd intext:username | uname intext: Insert into users values</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9349",
+          "Arya Usha"
+        ],
+        "author": {
+          "id": "9349",
+          "name": "Arya Usha"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4780",
+        "date": "2018-04-16",
+        "url_title": "<a href=\"/ghdb/4780\">ext:ini Robust.ini filetype:ini \"password\"</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9369",
+          "Bruno Schmid"
+        ],
+        "author": {
+          "id": "9369",
+          "name": "Bruno Schmid"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4778",
+        "date": "2018-04-16",
+        "url_title": "<a href=\"/ghdb/4778\">filetype:config \"\" \"password\" \"web.config\" -stackoverflow -youtube.com -github</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9369",
+          "Bruno Schmid"
+        ],
+        "author": {
+          "id": "9369",
+          "name": "Bruno Schmid"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4757",
+        "date": "2018-04-12",
+        "url_title": "<a href=\"/ghdb/4757\">inurl:\"config.xml\" \"password\" ext:xml -stackoverflow.com -github.com</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9369",
+          "Bruno Schmid"
+        ],
+        "author": {
+          "id": "9369",
+          "name": "Bruno Schmid"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4766",
+        "date": "2018-04-12",
+        "url_title": "<a href=\"/ghdb/4766\">inurl:\"databases.yml\" ext:yml password -github</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9369",
+          "Bruno Schmid"
+        ],
+        "author": {
+          "id": "9369",
+          "name": "Bruno Schmid"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4755",
+        "date": "2018-04-10",
+        "url_title": "<a href=\"/ghdb/4755\">inurl:/host.txt + filetype:txt + \"password\"</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9323",
+          "ManhNho"
+        ],
+        "author": {
+          "id": "9323",
+          "name": "ManhNho"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4750",
+        "date": "2018-04-06",
+        "url_title": "<a href=\"/ghdb/4750\">site:pastebin.com \"rcon_password\"</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9308",
+          "_palonE"
+        ],
+        "author": {
+          "id": "9308",
+          "name": "_palonE"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4744",
+        "date": "2018-04-04",
+        "url_title": "<a href=\"/ghdb/4744\">CakePHP inurl:database.php intext:db_password</a>",
+        "cat_id": [
+          "9",
+          "Files Containing Passwords"
+        ],
+        "author_id": [
+          "9173",
+          "Kiran S"
+        ],
+        "author": {
+          "id": "9173",
+          "name": "Kiran S"
+        },
+        "category": {
+          "cat_id": "9",
+          "cat_title": "Files Containing Passwords",
+          "cat_description": "PASSWORDS!!! Google found PASSWORDS!",
+          "last_update": "2021-09-01",
+          "records_count": "373",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4740",
+        "date": "2018-04-03",
+        "url_title": "<a href=\"/ghdb/4740\">CakePHP filetype:sql intext:password | pwd intext:username | uname intext: Insert into users values</a>",
+        "cat_id": [
+          "8",
+          "Files Containing Juicy Info"
+        ],
+        "author_id": [
+          "9349",
+          "Arya Usha"
+        ],
+        "author": {
+          "id": "9349",
+          "name": "Arya Usha"
+        },
+        "category": {
+          "cat_id": "8",
+          "cat_title": "Files Containing Juicy Info",
+          "cat_description": "No usernames or passwords, but interesting stuff none the less.",
+          "last_update": "2021-09-01",
+          "records_count": "942",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4719",
+        "date": "2018-03-30",
+        "url_title": "<a href=\"/ghdb/4719\">inurl:\"form_id\" login username password</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "9369",
+          "Bruno Schmid"
+        ],
+        "author": {
+          "id": "9369",
+          "name": "Bruno Schmid"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      },
+      {
+        "id": "4717",
+        "date": "2018-03-30",
+        "url_title": "<a href=\"/ghdb/4717\">intitle:\"Please login\" \"username\" \"password\"</a>",
+        "cat_id": [
+          "12",
+          "Pages Containing Login Portals"
+        ],
+        "author_id": [
+          "9369",
+          "Bruno Schmid"
+        ],
+        "author": {
+          "id": "9369",
+          "name": "Bruno Schmid"
+        },
+        "category": {
+          "cat_id": "12",
+          "cat_title": "Pages Containing Login Portals",
+          "cat_description": "These are login pages for various services. Consider them the front door of a websites more sensitive functions.",
+          "last_update": "2021-09-07",
+          "records_count": "1261",
+          "porder": 0
+        }
+      }
+    ]
+  }
