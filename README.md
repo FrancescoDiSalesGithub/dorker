@@ -16,7 +16,7 @@ Type in your terminal:
 where topic is the term you want to search for a possible google dork.
 Example:
 
-`python3 dorker.py search mp3'
+`python3 dorker.py search mp3'`
 
 In output the program will give all the possible dorks that are similiar to the word you have given.
 
