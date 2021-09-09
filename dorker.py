@@ -36,7 +36,7 @@ if __name__ == "__main__":
             injector.execute_dork()
  
         if term == "executelimit":
-            limit_value_search = int(input("how many values you want to search? "))
+            limit_value_search = int(input("how many values do you want to search? "))
 
             injector = googleinjector.googleInjector(command)
             injector.execute_dork_limit(limit_value_search)
