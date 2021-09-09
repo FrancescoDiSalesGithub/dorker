@@ -31,6 +31,6 @@ class graphics:
         print("EXAMPLES")
         print("")
         print("python3 dorker.py search Login")
-        print("python3 execute indexof")
-        print("python3 executelimit indexof")
+        print("python3 dorker.py execute indexof")
+        print("python3 dorker.py executelimit indexof")
         print("-------------------------------------------------------------")
