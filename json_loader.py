@@ -1,6 +1,7 @@
 import json
 import webbrowser
 
+
 class JSONLoader:
     def __init__(self,page):
         self.__page = page
@@ -19,3 +20,6 @@ class JSONLoader:
         for value in json1['data']:
             if str(value['category']['cat_title']).find(term):
                 print("{} - {} ".format(str(value['category']['cat_title']),str(value['url_title'])))
+
+    
+        
