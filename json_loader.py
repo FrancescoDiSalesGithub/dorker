@@ -1,5 +1,6 @@
 import json
 import webbrowser
+import re
 
 
 class JSONLoader:
@@ -16,10 +17,13 @@ class JSONLoader:
             string = string + value
 
         json1 = json.loads(string)
-
+        
+        cleaner = re.compile('<.*?>')
+        
         for value in json1['data']:
             if str(value['category']['cat_title']).find(term):
-                print("{} - {} ".format(str(value['category']['cat_title']),str(value['url_title'])))
+                clean_url = re.sub(cleaner,'',value['url_title'])
+                print("{} - {} ".format(str(value['category']['cat_title']),str(clean_url)))
 
     
         
