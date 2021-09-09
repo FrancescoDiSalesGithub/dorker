@@ -1,5 +1,7 @@
 # dorker
 
+DISCLAIMER: Do not use this software for illegal purposes
+
 ## How to use
 
 After cloning this project, you can do the following:
