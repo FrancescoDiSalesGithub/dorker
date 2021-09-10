@@ -16,7 +16,7 @@ if __name__ == "__main__":
         sys.exit(0)
 
     if len(sys.argv) == 3:
-        
+
         command = sys.argv[2]
         visuals.disclaimer()
         visuals.doBanner()
@@ -24,6 +24,7 @@ if __name__ == "__main__":
         if term == "search":
             google_database = dbhandler.dbhandler("exploitdork.db")
             google_database.search_dork(command)
+            google_database.close_connection()
 
         if term == "execute":
             injector = googleinjector.googleInjector(command)

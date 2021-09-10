@@ -12,6 +12,8 @@ class dbhandler:
         for value in list_dorks:
             print(value[0])
 
+    def close_connection(self):
+        self.__connection.close()
         
 
 
