@@ -1,6 +1,6 @@
 import sys
 
-import json_loader
+import dbhandler
 import googleinjector
 import graphics
 
@@ -21,15 +21,8 @@ if __name__ == "__main__":
         visuals.doBanner()
 
         if term == "search":
-            json_page_1 = json_loader.JSONLoader("page1.json")
-            json_page_2 = json_loader.JSONLoader("page2.json")
-            json_page_3 = json_loader.JSONLoader("page3.json")
-            json_page_4 = json_loader.JSONLoader("page4.json")
-
-            json_page_1.lookup(command)
-            json_page_2.lookup(command)
-            json_page_3.lookup(command)
-            json_page_4.lookup(command)
+            google_database = dbhandler.dbhandler("exploitdork.db")
+            google_database.search_dork(command)
 
         if term == "execute":
             injector = googleinjector.googleInjector(command)
