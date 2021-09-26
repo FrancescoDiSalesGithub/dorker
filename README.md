@@ -18,7 +18,7 @@ Type in your terminal:
 where topic is the term you want to search for a possible google dork.
 Example:
 
-`python3 dorker.py search mp3'`
+`python3 dorker.py search mp3`
 
 In output the program will give all the possible dorks that are similiar to the word you have given.
 
@@ -43,5 +43,11 @@ The output will be the following:
 `how many values do you want to search? `
 
 type a number and the program will give you the exact number of records you want to see
+
+### Execute a dork with spaces
+
+If you pass a dork with spaces as argument, put the double quote in your argument:
+
+`python3 dorker.py "allintitle: hotmail allinurl:microsoft" `
 
 
