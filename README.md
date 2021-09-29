@@ -2,6 +2,15 @@
 
 DISCLAIMER: Do not use this software for illegal purposes
 
+## Installation
+
+Run:
+```
+git clone https://github.com/FrancescoDiSalesGithub/dorker
+pip3 -r requirements.txt
+
+```
+
 ## How to use
 
 After cloning this project, you can do the following:
