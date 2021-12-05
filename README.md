@@ -59,4 +59,11 @@ If you pass a dork with spaces as argument, put the double quote in your argumen
 
 `python3 dorker.py "allintitle: hotmail allinurl:microsoft" `
 
+# Donations
 
+If you want to support me donate monero coins (XMR) at:
+`44TABHa24tB47FyvRfjUA6ASDiW26WoMXXtFuKrjXDSAP9ybzshbw6ZFeNwUf2UMGL279DfzLeBkzg6PAsZ5AruMRGDUaZx`
+
+or scan the qr-code:
+
+![monero wallet address](qrcode)
