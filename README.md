@@ -66,4 +66,4 @@ If you want to support me donate monero coins (XMR) at:
 
 or scan the qr-code:
 
-![monero wallet address](qrcode)
+![monero wallet address](https://github.com/FrancescoDiSalesGithub/FrancescoDiSalesGithub/blob/main/qrcode))
